@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working at Banrisul
-- 🌱 I’m currently learning HTML, CSS, Javascript, React
+- 🌱 I’m currently learning .NET Core
   
 <!--
 **douglasbrgs/douglasbrgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
